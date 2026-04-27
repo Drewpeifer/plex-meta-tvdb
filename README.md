@@ -2,6 +2,15 @@
 
 A Plex-compatible Custom Metadata Provider for TV shows using TheTVDB.com API written with the assistance of Claude Code (https://www.claude.com/product/claude-code)
 
+# Archive Notice 04/26
+
+This project has been archived as of April 2026. I no longer consider the TVDB a reliable source of data due to recent
+changes in administration and moderation policies. As a result, it has become too difficult to tell when the
+problems encountered with the agent are due to local configuration, the agent's logic, or the bad data source. I will leave the
+repo as publicly archived, please feel free to fork and use as you see fit.
+
+----------
+
 ## Disclaimer
 
 This project is provided as a template for developers for demonstration purposes only. Using this provider for permanent/production use is not recommended.
